@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
     .wrapper {
         padding: 20px; /* Add some padding to the wrapper on smaller screens */
     }
